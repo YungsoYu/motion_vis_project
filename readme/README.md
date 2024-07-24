@@ -4,7 +4,10 @@
 This tool is an Open3D-based motion visualizer for the AMASS motion dataset. Alongside animated motion, it visualizes the velocity and acceleration of each joint between frames with arrows on the human model and draws a 2D time series chart of changes in joint angles.
 
 ## Visualization of Velocity (yellow) and Acceleration (red) in a Football Shooting Motion
-![example1](football x2.mov)
+
+
+https://github.com/user-attachments/assets/959d87e1-feeb-4f59-b24e-45befc646243
+
 
 ## Visualization of Velocity (yellow) and Acceleration (red) in a Basketball Jump Shooting Motion
 ![example2](jump shoot 2 x2.mov)
